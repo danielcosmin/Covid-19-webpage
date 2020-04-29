@@ -1,0 +1,47 @@
+section {
+  padding: 100px 0;
+}
+
+.carousel-item {
+  height: 65vh;
+  min-height: 350px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.lastnews{
+  margin-bottom: 5%;
+  font-size: 2em;
+  color: red;
+}
+#readmore {
+  display: none;
+}
+button{
+  user-select:none;
+  -webkit-user-select:none;
+  -moz-user-select:none;
+  -ms-user-select:none;
+  cursor:pointer;
+  border:none;
+  padding:8px;
+  font-size:20px;
+  background:linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%);
+  color:white;
+  font-family:cursive;
+  box-sizing:border-box;
+}
+.text1 {
+  display: none;
+}
+.textinfo {
+  text-shadow: 1px 2px 2px black;
+  
+.headertext {
+  font-family: 'Roboto Mono', monospace;
+  text-shadow: 1px 2px 2px black;
+ 
+}
+}
